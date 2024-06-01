@@ -2,7 +2,7 @@
 
 This is a script using GPT to translate to multiple locales:
 
-[https://www.youtube.com/watch?v=FCoGU072Bmc](https://youtu.be/STktYLDE-kQ)
+https://youtu.be/STktYLDE-kQ
 
 ## How to Run Locally
 
